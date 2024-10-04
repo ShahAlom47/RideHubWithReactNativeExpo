@@ -1,5 +1,6 @@
 {
   "expo": {
+    "experiments": { "tsconfigPaths": true },
     "name": "MyFirstReactNativeExpoApp",
     "slug": "MyFirstReactNativeExpoApp",
     "version": "1.0.0",
@@ -11,6 +12,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+  
+
+
     "ios": {
       "supportsTablet": true
     },
